@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "product_id": 11,
+      "name": "Blue Jumpsuit",
+      "description": "128 Gb",
+      "condition": true,
+      "price": 27000,
+      "image": "https://hoods-backend.test/storage/product/23/iVpgiEM7ArmFviRYCWZvdEjtQY7cyhWJRJfqKEiZ.jpg",
+      "stock_amount": 2,
+      "published": false,
+      "is_approved": true,
+      "is_owner": true,
+      "created_at": "2021-12-27 14:11:36",
+      "updated_at": "2021-12-27 14:11:36",
+      "insights": {
+        "in_videos": 4,
+        "shared": 36,
+        "likes": 87,
+        "added_to_cart": 26,
+        "orders": 12,
+        "returns": 3
+      }
+    },
+    {
+      "id": 2,
+      "product_id": 22,
+      "name": "Tshirt",
+      "description": "100% Egyptian cotton, Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "condition": true,
+      "price": 345,
+      "sale_price": 500,
+      "image": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+      "stock_amount": 60,
+      "published": true,
+      "is_approved": true,
+      "is_owner": true,
+      "created_at": "2021-12-27 14:11:36",
+      "updated_at": "2021-12-27 14:11:36",
+      "insights": {
+        "in_videos": 4,
+        "shared": 36,
+        "likes": 87,
+        "added_to_cart": 26,
+        "orders": 12,
+        "returns": 3
+      }
+    },
+    {
+      "id": 3,
+      "product_id": 33,
+      "name": "Shoes",
+      "description": "100% leather, Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "condition": true,
+      "price": 345,
+      "sale_price": 500,
+      "stock_amount": 0,
+      "published": true,
+      "is_approved": true,
+      "is_owner": true,
+      "created_at": "2021-12-27 14:11:36",
+      "updated_at": "2021-12-27 14:11:36",
+      "insights": {
+        "in_videos": 1,
+        "shared": 4,
+        "likes": 36,
+        "added_to_cart": 67,
+        "orders": 9,
+        "returns": 0
+      }
+    }
+  ],
+  "meta": {
+    "current_page": 1,
+    "last_page": 1
+  }
+}
