@@ -1,0 +1,196 @@
+{
+  "data": {
+    "categories": [
+      {
+        "id": 1,
+        "slug": "clothes",
+        "name": "Clothes",
+        "parent": 0
+      },
+      {
+        "id": 2,
+        "slug": "shirts",
+        "name": "T-Shirts",
+        "Parent": 1
+      },
+      {
+        "id": 3,
+        "slug": "shoes",
+        "name": "Shoes",
+        "Parent": 1
+      },
+      {
+        "id": 4,
+        "slug": "hats",
+        "name": "Hats",
+        "Parent": 1
+      },
+      {
+        "id": 5,
+        "slug": "electronics",
+        "name": "Electronics",
+        "Parent": 0
+      },
+      {
+        "id": 6,
+        "slug": "laptops",
+        "name": "LapTops",
+        "Parent": 5
+      },
+      {
+        "id": 7,
+        "slug": "phones",
+        "name": "Mobile Phones",
+        "Parent": 5
+      }
+    ],
+    "suggested_categories": [
+      {
+        "id": 2,
+        "slug": "shirts",
+        "name": "T-Shirts",
+        "Parent": 1
+      },
+      {
+        "id": 5,
+        "slug": "electronics",
+        "name": "Electronics",
+        "Parent": 0
+      },
+      {
+        "id": 6,
+        "slug": "laptops",
+        "name": "LapTops",
+        "Parent": 5
+      }
+    ],
+    "brands": [
+      {
+        "id": 1,
+        "slug": "addidas",
+        "name": "Addidas"
+      },
+      {
+        "id": 2,
+        "slug": "nike",
+        "name": "Nike"
+      },
+      {
+        "id": 3,
+        "slug": "apple",
+        "name": "Apple"
+      }
+    ],
+    "suggested_brands": [
+      {
+        "id": 2,
+        "slug": "nike",
+        "name": "Nike"
+      },
+      {
+        "id": 3,
+        "slug": "apple",
+        "name": "Apple"
+      }
+    ],
+    "shipping": [
+      {
+        "id": 1,
+        "title": "Inside Cairo",
+        "cost": "30"
+      },
+      {
+        "id": 2,
+        "title": "Outside Cairo",
+        "cost": "50"
+      }
+    ],
+    "suggested_shipping": [
+      {
+        "id": 1,
+        "title": "Inside Cairo",
+        "cost": "30"
+      },
+      {
+        "id": 2,
+        "title": "Outside Cairo",
+        "cost": "50"
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "name": "red",
+        "value": "#ff0000"
+      },
+      {
+        "id": 2,
+        "name": "black",
+        "value": "#000000"
+      },
+      {
+        "id": 3,
+        "name": "green",
+        "value": "#00ff00"
+      },
+      {
+        "id": 4,
+        "name": "yellow",
+        "value": "#ffff00"
+      }
+    ],
+    "sizes": [
+      {
+        "id": 1,
+        "slug": "xs",
+        "name": "X-small"
+      },
+      {
+        "id": 2,
+        "slug": "sm",
+        "name": "Small"
+      },
+      {
+        "id": 3,
+        "slug": "md",
+        "name": "Medium"
+      },
+      {
+        "id": 4,
+        "slug": "lg",
+        "name": "Large"
+      },
+      {
+        "id": 5,
+        "slug": "40",
+        "name": "40"
+      },
+      {
+        "id": 6,
+        "slug": "41",
+        "name": "41"
+      },
+      {
+        "id": 7,
+        "slug": "42",
+        "name": "42"
+      }
+    ],
+    "other_variants": [
+      {
+        "id": 1,
+        "name": "pattern",
+        "values": [
+          {
+            "id": 1,
+            "name": "Dotted"
+          },
+          {
+            "id": 2,
+            "name": "Stripped"
+          }
+        ]
+      }
+    ]
+  }
+}
